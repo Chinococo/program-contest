@@ -293,3 +293,4 @@ player1 win
 player2 win
 player1 win
 player2 win
+player2 win
